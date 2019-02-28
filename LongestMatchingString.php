@@ -3,7 +3,7 @@
 /**
  * Get the longest matching string between two strings
  *
- * Class LongestCommonString
+ * Class LongestMatchingString
  */
 
 class LongestMatchingString
