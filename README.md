@@ -1,4 +1,4 @@
-# FindLongestMatchingString-PHP
+# Find Longest Matching String uisng PHP
 Find the longest matching strings between two strings
 
 Usage: 
